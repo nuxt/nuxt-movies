@@ -121,7 +121,6 @@ export default {
 </script>
 
 <style lang="scss" module>
-@import '~/assets/css/utilities/_variables.scss';
 
 .item {
   display: flex;

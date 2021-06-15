@@ -76,7 +76,6 @@ export default {
 </script>
 
 <style lang="scss" module>
-@import '~/assets/css/utilities/_variables.scss';
 
 .footer {
   padding: 2rem 1.5rem 6.5rem;

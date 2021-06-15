@@ -33,7 +33,6 @@ export default {
 </script>
 
 <style lang="scss">
-@import '~/assets/css/utilities/_variables.scss';
 
 @media (max-width: $breakpoint-large - 1) {
   .topnav-active {
@@ -43,7 +42,6 @@ export default {
 </style>
 
 <style lang="scss" module>
-@import '~/assets/css/utilities/_variables.scss';
 
 .nav {
   position: fixed;

@@ -72,7 +72,6 @@ export default {
 </script>
 
 <style lang="scss" module>
-@import '~/assets/css/utilities/_variables.scss';
 
 .nav {
   position: fixed;
@@ -135,7 +134,6 @@ export default {
 </style>
 
 <style lang="scss" scoped>
-@import '~/assets/css/utilities/_variables.scss';
 
 a.nuxt-link-active {
   &:hover,
