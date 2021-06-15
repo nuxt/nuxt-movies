@@ -44,7 +44,7 @@
     "husky": "^4.3.6",
     "lint-staged": "^11.0.0",
     "node-sass": "latest",
-    "nuxt": "^2.15.6",
+    "nuxt": "^2.15.7",
     "ohmyfetch": "^0.2.0",
     "sass-loader": "^10",
     "smoothscroll-polyfill": "^0.4.3",
