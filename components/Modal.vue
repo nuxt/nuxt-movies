@@ -304,7 +304,6 @@ export default {
 </script>
 
 <style lang="scss">
-@import '~/assets/css/utilities/_variables.scss';
 
 body.modal-open {
   overflow: hidden;

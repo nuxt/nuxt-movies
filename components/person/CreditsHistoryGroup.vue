@@ -33,7 +33,6 @@ export default {
 </script>
 
 <style lang="scss" module>
-@import '~/assets/css/utilities/_variables.scss';
 
 .group:nth-child(odd) {
   background-color: $secondary-color;

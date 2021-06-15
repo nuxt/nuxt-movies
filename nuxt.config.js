@@ -37,8 +37,14 @@ export default {
     '@nuxt/image',
     '@nuxtjs/svg',
     '@nuxtjs/web-vitals',
-    '@nuxtjs/google-fonts'
+    '@nuxtjs/web-vitals',
+    '@nuxtjs/google-fonts',
+    '@nuxtjs/style-resources'
   ],
+
+  styleResources: {
+    scss: ['~/assets/css/utilities/_variables.scss'],
+  },
 
   webVitals: {
     debug: true
