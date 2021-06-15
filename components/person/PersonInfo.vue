@@ -163,7 +163,6 @@ export default {
 </script>
 
 <style lang="scss" module>
-@import '~/assets/css/utilities/_variables.scss';
 
 .info {
   @media (min-width: $breakpoint-medium) {
