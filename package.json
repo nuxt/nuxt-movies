@@ -42,7 +42,7 @@
     "eslint-config-google": "^0.14.0",
     "eslint-plugin-babel": "^5.3.1",
     "husky": "^4.3.6",
-    "lint-staged": "^11.0.0",
+    "lint-staged": "^15.2.2",
     "node-sass": "latest",
     "nuxt": "^2.15.6",
     "ohmyfetch": "^0.2.0",
